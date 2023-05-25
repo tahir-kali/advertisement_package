@@ -8,6 +8,11 @@
             "Codeholic\\Advertisement\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Codeholic\\Advertisement\\Test": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Codeholic",
